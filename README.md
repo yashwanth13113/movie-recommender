@@ -14,6 +14,6 @@ Built using "Python, Pandas, Scikit-learn, and cosine similarity", this project 
 	• Programming Language:** Python 🐍
 	• Libraries:** Pandas, NumPy, Scikit-learn
 	• Dataset:** [TMDB Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) (or specify yours)
-Algorithm:** Content-based filtering using cosine similarity<img width="773" height="430" alt="image" src="https://github.com/user-attachments/assets/db7a9b7c-d562-4fb5-ad12-42ccb437e5b7" />
+
 
 
